@@ -1,0 +1,12 @@
+.vscode/
+UserSettings/
+*.csproj
+*.sln
+Logs/
+Packages/
+Assets/Editor/
+Assets/Materials/
+Assets/MobileDependencyResolver/
+*.meta
+Library/
+Temp/
